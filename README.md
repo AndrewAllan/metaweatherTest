@@ -1,17 +1,6 @@
 # metaweatherTest
 This is the repository for the metaweather test 
 
-Librays used 
-Rest-asured
-Junit 
-Hamcrest
-cucumber 
-log4j
-
-
-
-This is the api test automation assesment for the bbc 
-
 ## Getting Started
 
 download the project source from the repo - XX add XX
