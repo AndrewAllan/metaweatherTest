@@ -8,13 +8,12 @@ download the project source from the repo - XX add XX
 import the maven project into the eclipse IDE
 
 ### Libraries
-
-Librays used 
-Rest-asured
-Junit 
-Hamcrest
-cucumber 
-log4j
+ 
+-Rest-asured
+-Junit 
+-Hamcrest
+-cucumber 
+-log4j
 
 
 ## Running the tests
