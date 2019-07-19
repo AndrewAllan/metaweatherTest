@@ -48,3 +48,5 @@ I have used log4j for logging purposes
 4.The scenarios listed in the feature file are a fraction of the available scenarios and were chosen at random 
 
 5.API functionality could be far greater than what was tested but due to lack of documentation and the scope of the test this was not investigated
+
+6. the endpoint used for the scenario to check the next 4 day forcast returns a 5 day forcast but due to not having asserts for the 5th day this was not catered for. 
