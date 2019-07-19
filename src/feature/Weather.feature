@@ -3,7 +3,7 @@ Feature: Provide location and weather data
 					in order to allow external sorces to use the metaweather data 
 
   @Automation
-  Scenario: Retrive 5 day Weather Forcast
+  Scenario: Retrive 4 day Weather Forcast
     Given the Location endpoint is up 
     When A location is sent to the Api
     Then weather information for today is returned
