@@ -1,0 +1,7 @@
+2019-07-19 01:31:19.303 [main] INFO  BBC.Weather.SteoDefinition - Sending the woeid for london to the api
+2019-07-19 01:31:19.819 [main] INFO  BBC.Weather.SteoDefinition - asserting the weather for today matches expected
+2019-07-19 01:31:20.341 [main] INFO  BBC.Weather.SteoDefinition - asserting the weather for tomorow matches expected
+2019-07-19 01:31:20.371 [main] INFO  BBC.Weather.SteoDefinition - asserting the weather for the day after tomorow matches expected
+2019-07-19 01:31:20.400 [main] INFO  BBC.Weather.SteoDefinition - asserting the weather for tomorow + 2  matches expected
+2019-07-19 01:31:20.908 [main] INFO  BBC.Weather.SteoDefinition - sending the location woeid for london plus the date for today
+2019-07-19 01:31:21.627 [main] INFO  BBC.Weather.SteoDefinition - asserting the weather for today matches expected
